@@ -1,6 +1,6 @@
 
 
-<h1>《后端架构师技术图谱》</h1>
+<h1>架构师技能树</h1>
 
 
 * [数据结构](https://github.com/abbothzhang/architect_map/blob/main/README.md#数据结构)
